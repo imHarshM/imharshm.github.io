@@ -1,0 +1,49 @@
+{
+  "short_name": "IMHARSHM",
+  "name": "Harshal H. Mahajan",
+  "description": "UI Developer with 7.5+ years of Experience",
+  "start_url": ".",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Todo Web App",
+      "short_name": "TOdo",
+      "description": "You can add and remove todos",
+      "url": "https://imharshm.github.io/todo",
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "/images/screenshot2.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720"
+    }
+  ]
+}

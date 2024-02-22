@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d92932a0.chunk.css",
+    "main.js": "/static/js/main.3ed096ff.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.562bc016.js",
+    "static/js/2.a2429032.chunk.js": "/static/js/2.a2429032.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.a2429032.chunk.js.LICENSE.txt": "/static/js/2.a2429032.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/profile.30a622bb.jpeg": "/static/media/profile.30a622bb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.562bc016.js",
+    "static/js/2.a2429032.chunk.js",
+    "static/css/main.d92932a0.chunk.css",
+    "static/js/main.3ed096ff.chunk.js"
+  ]
+}
